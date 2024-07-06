@@ -1,6 +1,6 @@
-# Currency-Conversion-Pratice
+# Give Me A Walking Destination
 
-Learn Egyptian Arabic — or German.
+![Screenshot of Give Me A Walking Destination](/doc/img/project.png)
 
 ## Acceptance Criteria
 
@@ -11,9 +11,6 @@ Learn Egyptian Arabic — or German.
 ## Contributing & Running Locally
 
 1. clone this repository to your local machine
-2. run `npm i` and `npm run dev`
 
 
 ## Credit
-
--  sentences from Tatobea

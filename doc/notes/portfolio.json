@@ -1,1 +1,15 @@
-{"title": "Currency Conversion Practice", "status": "idea", "showOnPortfolio": true, "showAboveFold": false,  "imageAltProperty": "Screenshot of the project",        "subtitle": null}
+{
+  "title": "Give Me A Walking Destination",
+  "subtitle": "",
+  "status": "alpha",
+  "showOnPortfolio": false,
+  "showAboveFold": false,
+  "imageAltProperty": "Screenshot of Give Me A Walking Destination",
+  "languages": [],
+  "links": [
+    {
+      "title": "See on GitHub",
+      "url": "https://github.com/koljapluemer/give_me_a_walking_destination"
+    }
+  ]
+}
